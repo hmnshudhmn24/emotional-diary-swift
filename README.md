@@ -1,5 +1,5 @@
 
-# 💖 Emotional Wellness Diary (Swifty)
+# 💖 Emotional Wellness Diary (Swift)
 
 A beautifully designed Swift iOS app that allows users to privately journal their daily thoughts and emotions. Using on-device sentiment analysis, it helps track mental wellness trends over time — empowering users to better understand their emotional patterns. 📈🧠
 
