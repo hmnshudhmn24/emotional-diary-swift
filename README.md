@@ -3,7 +3,6 @@
 
 A beautifully designed Swift iOS app that allows users to privately journal their daily thoughts and emotions. Using on-device sentiment analysis, it helps track mental wellness trends over time — empowering users to better understand their emotional patterns. 📈🧠
 
----
 
 ## 🧘‍♀️ Project Description
 
@@ -11,7 +10,6 @@ The Emotional Wellness Diary app promotes emotional self-awareness by combining 
 
 This is a wellness-focused, AI-assisted journal made with love and mindful tech. 🌿
 
----
 
 ## 🚀 How to Run
 
@@ -39,7 +37,6 @@ open EmotionalDiary.xcodeproj
 
 4. Build and run on a real device or simulator.
 
----
 
 ## ✨ Features
 
@@ -50,7 +47,6 @@ open EmotionalDiary.xcodeproj
 - 🌤️ Mood-based insights: Get small positive nudges
 - 🔔 Optional journaling reminders
 
----
 
 ## 🛠 Tech Stack
 
@@ -62,7 +58,6 @@ open EmotionalDiary.xcodeproj
 | SwiftCharts    | Visualize mood trends                |
 | UIKit          | User interface                       |
 
----
 
 ## 🧩 Future Enhancements
 
@@ -71,7 +66,6 @@ open EmotionalDiary.xcodeproj
 - 🧘 Daily affirmations from AI
 - 📚 Export journal to PDF
 
----
 
 ## 💬 Why This App?
 
